@@ -1,4 +1,5 @@
-   ![](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
+ ![github-header-image (3)](https://github.com/PurvikaJagtap7/PurvikaJagtap7/assets/142151559/f800c1cf-a230-4008-8206-acf4b7141161)
+
 <h3 align="center"> Hey!👋 I am Purvika Jagtap</h3>
 <h3 align="center">Full-Stack Developer from Mumbai, India</h3>
 <h4 align="center">I'm a dedicated computer science student studying at <a href="https://gpmumbai.ac.in/gpmweb/">Government Polytechnic Mumbai</a>, with a passion for Full-Stack Development.</h4>
