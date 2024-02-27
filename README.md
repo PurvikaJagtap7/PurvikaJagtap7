@@ -1,7 +1,7 @@
  ![github-header-image (3)](https://github.com/PurvikaJagtap7/PurvikaJagtap7/assets/142151559/f800c1cf-a230-4008-8206-acf4b7141161)
 
 <h3 align="center"> Hey!👋 I am Purvika Jagtap</h3>
-<h3 align="center">Full-Stack Developer from Mumbai, India</h3>
+<h3 align="center">Full-Stack Developer from India</h3>
 <h4 align="center">I'm a dedicated computer science student studying at <a href="https://gpmumbai.ac.in/gpmweb/">Government Polytechnic Mumbai</a>, with a passion for Full-Stack Development.</h4>
 <h4>🖥 Things I code with</h4><br>
 
