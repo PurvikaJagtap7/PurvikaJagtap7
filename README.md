@@ -11,4 +11,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PurvikaJagtap7&theme=onedark)](https://github.com/PurvikaJagtap7/github-profile-trophy)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PurvikaJagtap7&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurvikaJagtap7&layout=compact)](https://github.com/PurvikaJagtap7)
